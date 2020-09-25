@@ -1,0 +1,14 @@
+.container{
+	border:1px solid black;
+	width:75%;
+	margin:auto;
+	text-align:center;
+}
+
+.flexbox-container{
+	border:1px solid red;
+	display:flex;
+	padding:10px;
+	justify-content:space-around;
+	margin-bottom: 3%;
+}
